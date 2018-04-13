@@ -16,7 +16,7 @@
       "slots": {
         "FirstName": {
           "name": "FirstName",
-          "value": "John"
+          "value": "Akshay"
         }
       },
       "name": "HelloIntent"
