@@ -33,7 +33,7 @@ var event = {
       userId: 'usrid123'
     },
     application: {
-      applicationId: 'amzn1.echo-sdk-ams.app.1234'
+      applicationId: 'amzn1.ask.skill.fededa75-100b-4a7e-bb31-3f305e801234'
     }
   },
   version: '1.0',
@@ -132,7 +132,7 @@ describe('All intents', function() {
         event.request.intent.slots = {
           FirstName: {
             name: 'FirstName',
-            value: 'John'
+            value: 'Akshay'
           }
         };
         ctx.done = done;
